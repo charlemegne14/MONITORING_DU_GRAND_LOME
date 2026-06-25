@@ -39,6 +39,6 @@ Projet d’analyse de données sur la **sécurité publique** dans le Grand Lom�
 
 ---
 
-**Auteur** : Augustin MI  
+**Auteur** : CHARLEMAGNE14
 **Date** : Février 2026  
 **Domaine** : Analyse de Sécurité • Power BI • Données Spatiales
